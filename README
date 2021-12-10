@@ -1,0 +1,15 @@
+This project is about implementing a scalable duplicate search method, using LSH in combination with a clustering approach. 
+The code is structured as follows:
+
+The function ProcedureLSHandMSM runs the whole LSH + MSM algorithm 
+This function is divided into 5 steps:
+STEP0: saving information for evaluation purposes and data cleaning
+STEP1: Algorithm for obtaining the binary vectors
+STEP2: Algorithm for Minhashing
+STEP3: Algorithm for LSH (and needed functions)
+STEP4: Algorithm for MSM (and needed functions)
+STEP5: Evaluation with Bootstrapping.
+
+
+he structure of your
+code, and how to use the code
