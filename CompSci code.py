@@ -612,7 +612,7 @@ def ProcedureLSHandMSM(data, N, nrows, listofsampleproducts):
 #STEP 5: EVALUATION
 #bootstrap sample size: same as orginal dataset!!
 #5 bootstrap samples
-numberofbootstraps = 1
+numberofbootstraps = 5
 product_numbers = list(range(1624))
 listofrowstotry = [1,2,3,4,5,6,7,8,9,10] 
 nMinhashes = 1050
