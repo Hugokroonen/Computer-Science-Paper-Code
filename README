@@ -12,6 +12,5 @@ STEP2: Algorithm for Minhashing
 STEP3: Algorithm for LSH (and needed functions)
 STEP4: Algorithm for MSM (and needed functions)
 STEP5: Evaluation with Bootstrapping.
-*note that the numberofbootstraps should be 5*
 This step calculates the performances of LSH and MSM and prints the averages.
 
